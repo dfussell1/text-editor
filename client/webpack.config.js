@@ -28,7 +28,7 @@ module.exports = () => {
           swDest: 'src-sw.js',
         }),
 
-        new GenerateSW(),
+        // new GenerateSW(),
         new WebpackPwaManifest({
           name: 'Text Editor',
           short_name: 'TE',
