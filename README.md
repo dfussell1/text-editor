@@ -13,6 +13,7 @@
   - [License](#license)
   - [Questions](#questions)
   - [Screenshots](#screenshots)
+  - [Deployment](#deployment)
 
   ## Installation 
   To install the necessary dependencies, run "npm i"
@@ -50,3 +51,7 @@ Service Worker:
 IndexedDB Storage: 
 
 ![Screenshot showing IndexedDB Storage in DevTools](./screenshots/db-screenshot.png)
+
+## Deployment 
+
+https://text-editor-tua5.onrender.com/ 
